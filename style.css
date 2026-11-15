@@ -11,3 +11,16 @@ nav a {
   margin-right: 15px;
   text-decoration: none;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+h1 {
+  font-size: 42px;
+  margin-top: 40px;
+}
