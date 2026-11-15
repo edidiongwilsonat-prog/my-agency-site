@@ -2,8 +2,9 @@ body {
   background: #1a1acc;
   color: white;
   font-family: Arial, sans-serif;
-  margin: 0;
+  margin: 0 auto;
   padding: 20px;
+  max-width: 1100px;
 }
 
 nav a {
@@ -35,10 +36,6 @@ h1 {
   text-decoration: none;
   margin-top: 20px;
 }
-body {
-  max-width: 1100px;
-  margin: 0 auto;
-}
 
 .services {
   background: white;
@@ -56,4 +53,23 @@ body {
 .services p {
   font-size: 18px;
   line-height: 1.6;
+}
+
+.work {
+  background: white;
+  color: #1a1acc;
+  padding: 24px;
+  border-radius: 16px;
+  margin-top: 24px;
+}
+
+.work h2 {
+  margin-top: 0;
+  font-size: 26px;
+}
+
+.work p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
 }
