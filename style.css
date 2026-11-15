@@ -39,3 +39,21 @@ body {
   max-width: 1100px;
   margin: 0 auto;
 }
+
+.services {
+  background: white;
+  color: #1a1acc;
+  padding: 30px 24px;
+  border-radius: 16px;
+  margin-top: 50px;
+}
+
+.services h2 {
+  margin-top: 0;
+  font-size: 32px;
+}
+
+.services p {
+  font-size: 18px;
+  line-height: 1.6;
+}
