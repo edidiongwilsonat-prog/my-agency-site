@@ -24,3 +24,14 @@ h1 {
   font-size: 42px;
   margin-top: 40px;
 }
+
+.btn {
+  display: inline-block;
+  background: #ffe94d;
+  color: #111;
+  padding: 14px 28px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 20px;
+}
